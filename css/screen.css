@@ -78,4 +78,16 @@ input{
     display: inline;
     
   }
+  
+h1{
+	color:#EFD9CE;
+	background-color:#8f3985;
+	font-size:1.5em;
+	clear:left;
+	margin-left:auto;
+	margin-right:auto;
+	width:auto;
+	padding:2px;
+	position:center;
+	text-align:center;
 }
