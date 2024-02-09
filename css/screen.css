@@ -54,4 +54,28 @@
 	
 	}
 }
-/** desktop **/ 
+/** mobile **/ 
+label {
+    display: inline-block;
+    color:#EFD9CE;
+    background-color:#A675A1;
+    margin-right: 5px;
+    font-size: 1.3em;
+    width: 30%;
+    height: 20px;
+
+  }
+  
+input{
+    width: 30%;
+    float: clear;
+    height: 20px;
+	color:#EFD9CE;
+	background-color:#CEA2AC;
+  }
+  
+  div {
+    display: inline;
+    
+  }
+}
