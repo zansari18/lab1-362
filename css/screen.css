@@ -10,7 +10,8 @@ h1{
 	color:#EFD9CE;
 	background-color:#8f3985;
 	font-size:220%;
-	border: 10px solid #EDF5E1;
-	border-radius:40%;
-	padding:5px;
 	clear:left;
+	margin-left:auto;
+	margin-right:auto;
+	width:4em;
+}
