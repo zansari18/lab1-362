@@ -54,6 +54,7 @@
 	
 	}
 }
+
 /** mobile **/ 
 body {
   width: 100%;
@@ -69,7 +70,7 @@ form {
   display: inline-block;
   width: 225px;
   background-color: #A675A1;
-  clear:left;
+
 }
 
 input {
