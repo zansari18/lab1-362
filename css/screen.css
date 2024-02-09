@@ -21,7 +21,23 @@ h1{
 div{
 	width:50%;
 }
+
 label{
+	float:left;
 	color:#EFD9CE;
 	background-color:#A675A1;
+}
+input{
+	color:#EFD9CE;
+	background-color:#CEA2AC;
+	border:none;
+	margin-top: 1px;
+	margin-bottom:2px;
+}
+form{
+	background-color: #A675A1;
+}
+fieldset{
+	display:block;
+	
 }
